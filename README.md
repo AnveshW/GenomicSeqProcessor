@@ -1,5 +1,5 @@
 ### GenomicSeqProcessor
-This repository contains a Python program to construct reverse, complement, and reverse-complement sequences for DNA and RNA. This tool is essential for genomic studies and can handle genome data sourced from the NCBI (National Center for Biotechnology Information). The project was guided by Instructor Mr. Usama Khalil and leverages the Spyder IDE for development.
+This repository contains a Python program to construct reverse, complement, and reverse-complement sequences for DNA and RNA. This tool is essential for genomic studies and can handle genome data sourced from the NCBI (National Center for Biotechnology Information). The project was guided and leverages the Spyder IDE for development.
 
 ### Features
 
@@ -22,4 +22,3 @@ Contributions are welcome! Please fork the repository and create a pull request 
 ### References
 
 - [NCBI](https://www.ncbi.nlm.nih.gov/)
-- Instructor: Mr. Usama Khalil
